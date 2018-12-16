@@ -1,0 +1,211 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#header {
+    width: auto;
+    margin-top: 0;
+    height: 80px; 
+}
+
+#logo {
+    float: left;
+    font-size: 50px;
+    margin-left: 40px;
+    margin-right: 30%
+}
+
+#logo a {
+    line-height: 80px;
+    text-decoration: none;
+}
+
+#menu ul {
+    margin: 0;
+    list-style: none;
+}
+
+#menu li {
+    display: inline;
+    line-height: 80px;
+    margin-right: 4%;
+}
+
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu li:hover a {
+    color: #FD502E;
+}
+#slider img {
+    width: 100%;
+}
+
+#creative {
+    width: auto;
+}
+
+#creative > div {
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+.icon {
+    width: 70px;
+    height: 70px;
+    background: #FD502E;
+    border-radius: 50%;
+    line-height: 70px;
+    text-align: center;
+    color: white;
+}
+
+#main-features {
+    width: auto;
+    height: auto;
+}
+
+#main-features img {
+    width: 40%;
+}
+
+#s-e-u {
+    margin-top: 40px;
+    width: auto;
+    text-align: center;
+}
+
+.s-e-u-box {
+    width: 300px;
+    margin-right: 1%;
+    display: inline-block;
+    text-align: left !important;
+}
+
+.s-e-u-box .icon {
+    float: left;
+}
+
+.s-e-u-box .title {
+    float: right;
+    width: 75%;
+} 
+
+.s-e-u-box .title h5 {
+    margin: 0;
+    font-size: 20px;
+}
+
+#easily {
+    background: #FD502E;
+    padding: 50px;
+}
+
+#easily p {
+    color: white;
+}
+
+#easily h2 {
+    color: white;
+}
+
+#easily button {
+    background: white;
+    border: 1px;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#people {
+    width: auto;
+    height: auto;
+    text-align: center;
+    color: black !important;
+    padding: 30px;
+    background: #F9F9F9;
+}
+
+#people .box {
+    display: inline-block;
+    width: 250px;
+    color: black !important;
+}
+
+#people .box img {
+    border-radius: 20px;
+}
+
+#mrc {
+    width: auto;
+    background: #292929;
+    color: white;
+    height: 250px;
+    padding: 50px  0 30px; 
+    padding-left: 150px;
+}
+
+.mrc-box {
+    margin-top: 0;
+    text-align: left;
+    float: left;
+    width: 25%;
+    background: #292929;
+}
+
+.recent {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.multi ul {
+    list-style: none;
+}
+
+.multi li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.multi a {
+    color: white;
+}
+
+#footer {
+    background: #090909;
+    color: white;
+    width: auto;
+    height: 80px;
+    clear: both;
+}
+
+#footer p {
+    line-height: 80px;
+    float: left;
+    margin: 0;
+    margin-left: 80px;
+    margin-right: 350px;
+    font-size: 14px;
+}
+
+#footer ul {
+    list-style: none;
+    font-size: 14px;
+    margin: 0;
+}
+
+#footer li {
+    display: inline;
+    line-height: 80px;
+    margin-right: 25px;
+}
+
+#footer li a {
+    color: white;
+    text-decoration: none;
+}
